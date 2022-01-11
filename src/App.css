@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.navbar-spacer {
+  height: 56px;
+}
+
+.selected-cell-display {
+  width: 100px;
+  height: 30px;
+  position: fixed;
+  z-index: 5;
+  left: 1px;
+  background-color: #DDDDDD;
+  text-align: center;
+}
+
+.formula-bar {
+  width: 100vw;
+  height: 30px;
+  z-index: 5;
+  background-color: #FEFEFE;
+  position: fixed;
+  left: 103px;
+}
+
+.formula-bar-spacer {
+  height: 30px;
+}

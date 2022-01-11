@@ -1,0 +1,30 @@
+.nu-cell-title {
+    background-color: #D41B2C;
+    padding: 0 24px;
+    border-radius: 8px;
+    font-weight: 650;
+}
+
+.nav-btn {
+    padding-right: 16px !important;
+}
+
+.spacer {
+    margin-right: 8vw;
+}
+
+.color-btn {
+    padding-right: 4px;
+}
+
+.filter-btn {
+    margin-right: 24px;
+}
+
+.dropdown-menu.show {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+}
+
+.dropdown-toggle.nav-link {
+    color: white !important;
+}
